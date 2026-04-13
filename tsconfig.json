@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "rootDir": "./",
+    "outDir": "./scripts",
+    "module": "ES6",
+    "target": "ES6",
+    "strict": false,
+    "skipLibCheck": true,
+    "esModuleInterop": true
+  }
+}
